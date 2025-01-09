@@ -1,6 +1,0 @@
-main.c:10:3: error: expected identifier or ‘(’ before ‘return’
-   10 |   return 0;
-      |   ^~~~~~
-main.c:11:1: error: expected identifier or ‘(’ before ‘}’ token
-   11 | }
-      | ^
